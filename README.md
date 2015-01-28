@@ -1,4 +1,6 @@
-#Big & Bad AngularJS Resources:
+##Big & Bad AngularJS Resources:
+
+<hr />
 
 * [Ment.io angular](https://github.com/jeff-collins/ment.io)
 * [Vex](https://github.com/hubspot/vex)
@@ -16,10 +18,10 @@
 * [Angular HTTP-Batcher](https://github.com/jonsamwell/angular-http-batcher)
 * [Angular Resourcify](https://github.com/erikdonohoo/resourcify)
 
-###Payments
+####Payments
 * [Stripe Angular](https://github.com/laurihy/angular-payments)
 * [Angular Stripe Directives](https://github.com/gtramontina/stripe-angular)
 
-###Local Storage
+####Local Storage
 * [Angular Locker](https://github.com/tymondesigns/angular-locker)
 * [Angular Local Storage](https://github.com/agrublev/angularLocalStorage)
